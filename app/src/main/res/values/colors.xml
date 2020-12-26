@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+
+    <color name="main_text">#000000</color>
+    <color name="transparent">#0CF44336</color>
+    <color name="button_background_pressed">#A41920</color>
+    <color name="gray">#737373</color>
+    <color name="button_background">#ffd1343c</color>
+    <color name="button_background_gray">#ff737373</color>
+    <color name="button_background_gray_pressed">#ff585858</color>
+    <color name="button_background_green">#ff1cce00</color>
+    <color name="button_background_green_pressed">#ff159e00</color>
+    <color name="background">#64ffe9da</color>
+
+    <color name="background_stroke">#ffffa86c</color>
+    <color name="blue">#ff303f9f</color>
+    <color name="button_background_transparent_green">#651cce00</color>
+    <color name="button_background_transparent_green_pressed">#99159e00</color>
+    <color name="button_stroke">#ff78050b</color>
+    <color name="button_stroke_gray">#ff252525</color>
+    <color name="button_stroke_green">#ff0f6e00</color>
+    <color name="green">#ff258900</color>
+    <color name="colorPrimaryDark">#293859</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#ffffff</color>
+    <color name="grey">#E9EAEE</color>
+    <color name="yellow">#F8BA0F</color>
+    <color name="goodgrey">#535353</color>
+
+    <color name="lightgrey">#EEEEEE</color>
+</resources>
